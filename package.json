@@ -1,0 +1,23 @@
+{
+  "name": "agenda-de-psicologos",
+  "version": "1.0.0",
+  "description": "Visando suprir as necessidades organizacionais dos psicologos",
+  "main": "app.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exartt/AgendaPrototipo.git"
+  },
+  "author": "leonardo moraes da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exartt/AgendaPrototipo/issues"
+  },
+  "homepage": "https://github.com/exartt/AgendaPrototipo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.0.2"
+  }
+}
